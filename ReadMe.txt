@@ -38,6 +38,11 @@ INSERT INTO products (name, supplier, supplier_adress, quantity, unit_price) VAL
 
 
 
+conteudo da env
+DB_HOST=localhost
+DB_USER=root
+DB_PASSWORD=positivo
+DB_DATABASE=meu_banco
 
 
 
